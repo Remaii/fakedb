@@ -3,45 +3,77 @@
 		{
 			"id": 1,
 			"slug": "test-1",
-			"title": "Produit 1 de test"
+			"title": "Produit 1 de test",
+			"image": {
+				"url":"https://via.placeholder.com/600/92c952",
+				"thumbnail": "https://via.placeholder.com/150/92c952"
+			}
 		},
 		{
 			"id": 2,
 			"slug": "test-2",
-			"title": "Produit 2 de test"
+			"title": "Produit 2 de test",
+			"image": {
+				"url": "https://via.placeholder.com/600/92c952",
+				"thumbnail": "https://via.placeholder.com/150/92c952"
+			}
 		},
 		{
 			"id": 3,
 			"slug": "test-3",
-			"title": "Produit 3 de test"
+			"title": "Produit 3 de test",
+			"image": {
+				"url": "https://via.placeholder.com/600/92c952",
+				"thumbnail": "https://via.placeholder.com/150/92c952"
+			}
 		},
 		{
 			"id": 4,
 			"slug": "test-4",
-			"title": "Produit 4 de test"
+			"title": "Produit 4 de test",
+			"image": {
+				"url": "https://via.placeholder.com/600/92c952",
+				"thumbnail": "https://via.placeholder.com/150/92c952"
+			}
 		},
 		{
 			"id": 11,
 			"slug": "test-11",
-			"title": "Produit 11 de test"
+			"title": "Produit 11 de test",
+			"image": {
+				"url": "https://via.placeholder.com/600/92c952",
+				"thumbnail": "https://via.placeholder.com/150/92c952"
+			}
 		},
 		{
 			"id": 21,
 			"slug": "test-21",
-			"title": "Produit 21 de test"
+			"title": "Produit 21 de test",
+			"image": {
+				"url": "https://via.placeholder.com/600/92c952",
+				"thumbnail": "https://via.placeholder.com/150/92c952"
+			}
 		},
 		{
 			"id": 31,
 			"slug": "test-31",
-			"title": "Produit 31 de test"
+			"title": "Produit 31 de test",
+			"image": {
+				"url": "https://via.placeholder.com/600/92c952",
+				"thumbnail": "https://via.placeholder.com/150/92c952"
+			}
 		},
 		{
 			"id": 41,
 			"slug": "test-41",
-			"title": "Produit 41 de test"
+			"title": "Produit 41 de test",
+			"image": {
+				"url": "https://via.placeholder.com/600/92c952",
+				"thumbnail": "https://via.placeholder.com/150/92c952"
+			}
 		}
 	],
-	"collection":[
+	"collections":[
 		{
 			"id": 1,
 			"slug": "high-tech",
