@@ -5,7 +5,7 @@
 			"slug": "test-1",
 			"title": "Produit 1 de test",
 			"image": {
-				"url":"https://picsum.photos/600/430",
+				"url":"https://picsum.photos/600/300",
 				"thumbnail": "https://picsum.photos/300/150"
 			}
 		},
