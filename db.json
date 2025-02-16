@@ -5,8 +5,8 @@
 			"slug": "test-1",
 			"title": "Produit 1 de test",
 			"image": {
-				"url":"https://via.placeholder.com/600/92c952",
-				"thumbnail": "https://via.placeholder.com/150/92c952"
+				"url":"https://picsum.photos/600/430",
+				"thumbnail": "https://picsum.photos/300/150"
 			}
 		},
 		{
@@ -14,8 +14,8 @@
 			"slug": "test-2",
 			"title": "Produit 2 de test",
 			"image": {
-				"url": "https://via.placeholder.com/600/92c952",
-				"thumbnail": "https://via.placeholder.com/150/92c952"
+				"url": "https://picsum.photos/600/300",
+				"thumbnail": "https://picsum.photos/300/150"
 			}
 		},
 		{
@@ -23,8 +23,8 @@
 			"slug": "test-3",
 			"title": "Produit 3 de test",
 			"image": {
-				"url": "https://via.placeholder.com/600/92c952",
-				"thumbnail": "https://via.placeholder.com/150/92c952"
+				"url": "https://picsum.photos/600/300",
+				"thumbnail": "https://picsum.photos/300/150"
 			}
 		},
 		{
@@ -32,8 +32,8 @@
 			"slug": "test-4",
 			"title": "Produit 4 de test",
 			"image": {
-				"url": "https://via.placeholder.com/600/92c952",
-				"thumbnail": "https://via.placeholder.com/150/92c952"
+				"url": "https://picsum.photos/600/300",
+				"thumbnail": "https://picsum.photos/300/150"
 			}
 		},
 		{
@@ -41,8 +41,8 @@
 			"slug": "test-11",
 			"title": "Produit 11 de test",
 			"image": {
-				"url": "https://via.placeholder.com/600/92c952",
-				"thumbnail": "https://via.placeholder.com/150/92c952"
+				"url": "https://picsum.photos/600/300",
+				"thumbnail": "https://picsum.photos/300/150"
 			}
 		},
 		{
@@ -50,8 +50,8 @@
 			"slug": "test-21",
 			"title": "Produit 21 de test",
 			"image": {
-				"url": "https://via.placeholder.com/600/92c952",
-				"thumbnail": "https://via.placeholder.com/150/92c952"
+				"url": "https://picsum.photos/600/300",
+				"thumbnail": "https://picsum.photos/300/150"
 			}
 		},
 		{
@@ -59,8 +59,8 @@
 			"slug": "test-31",
 			"title": "Produit 31 de test",
 			"image": {
-				"url": "https://via.placeholder.com/600/92c952",
-				"thumbnail": "https://via.placeholder.com/150/92c952"
+				"url": "https://picsum.photos/600/300",
+				"thumbnail": "https://picsum.photos/300/150"
 			}
 		},
 		{
@@ -68,8 +68,8 @@
 			"slug": "test-41",
 			"title": "Produit 41 de test",
 			"image": {
-				"url": "https://via.placeholder.com/600/92c952",
-				"thumbnail": "https://via.placeholder.com/150/92c952"
+				"url": "https://picsum.photos/600/300",
+				"thumbnail": "https://picsum.photos/300/150"
 			}
 		}
 	],
