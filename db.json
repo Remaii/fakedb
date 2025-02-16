@@ -1,0 +1,82 @@
+{
+	"products":[
+		{
+			"id": 1,
+			"slug": "test-1",
+			"title": "Produit 1 de test"
+		},
+		{
+			"id": 2,
+			"slug": "test-2",
+			"title": "Produit 2 de test"
+		},
+		{
+			"id": 3,
+			"slug": "test-3",
+			"title": "Produit 3 de test"
+		},
+		{
+			"id": 4,
+			"slug": "test-4",
+			"title": "Produit 4 de test"
+		},
+		{
+			"id": 11,
+			"slug": "test-11",
+			"title": "Produit 11 de test"
+		},
+		{
+			"id": 21,
+			"slug": "test-21",
+			"title": "Produit 21 de test"
+		},
+		{
+			"id": 31,
+			"slug": "test-31",
+			"title": "Produit 31 de test"
+		},
+		{
+			"id": 41,
+			"slug": "test-41",
+			"title": "Produit 41 de test"
+		}
+	],
+	"collection":[
+		{
+			"id": 1,
+			"slug": "high-tech",
+			"title":"High-Tech",
+			"productIds": [
+				{ "id": 1, "slug": "test-1" },
+				{ "id": 11, "slug": "test-11" }
+			]
+		},
+		{
+			"id": 2,
+			"slug": "jardin",
+			"title":"Jardin",
+			"productIds": [
+				{ "id": 2, "slug": "test-2" },
+				{ "id": 21, "slug": "test-21" }
+			]
+		},
+		{
+			"id": 3,
+			"slug": "beaute",
+			"title":"Beaute",
+			"productIds": [
+				{ "id": 3, "slug": "test-3" },
+				{ "id": 31, "slug": "test-31" }
+			]
+		},
+		{
+			"id": 4,
+			"slug": "cuisine",
+			"title":"Cuisine",
+			"productIds": [
+				{ "id": 4, "slug": "test-4" },
+				{ "id": 41, "slug": "test-41" }
+			]
+		}
+	]
+}
